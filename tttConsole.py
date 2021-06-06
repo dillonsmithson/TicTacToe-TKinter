@@ -1,6 +1,11 @@
 ### CONSOLE VERSION OF TIC TAC TOE ###
+import GameBoard
 
 def main():
+    board = GameBoard.GameBoard()
+    board.print_board()
+
+
     # Create a variable to store the empty game board
     # This should be a column win, print out 'col win' for this one
     gameBoardArray = [[' ', ' ', ' '],

@@ -1,0 +1,7 @@
+- Think about porting the code into an OOP style. That may help clean up some of the code.
+- Need to clean up some of the logic when it comes to keeping the gameloop alive in the console version.
+    * This probably won't have any thing to do with the GUI Version, but I still want both to be acceptable versions
+    * This is because the console version is going to be my main version for prototyping new modes for the game.
+    * Then it'll just be a simple port over into the GUI as a lot of the logic will already be done. It'll just have to be
+      rewritten for the GUI Version.
+- The GUI Version should be started soon, I'm hoping around Tuesday or Wednesday.
